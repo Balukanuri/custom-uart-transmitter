@@ -81,3 +81,4 @@ module uart_tx_upgraded (
     end
 
 endmodule
+Added design from EDA Playground

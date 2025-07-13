@@ -15,11 +15,4 @@ A UART Transmitter built using Verilog and simulated with Icarus Verilog and GTK
 
 ---
 
-## 🧪 Simulation Instructions
 
-To run the simulation and view the waveform:
-
-```bash
-iverilog -o uart_tx uart_tx_upgraded.v uart_tx_upgraded_tb.v
-vvp uart_tx
-gtkwave wave.vcd

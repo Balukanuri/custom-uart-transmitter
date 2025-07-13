@@ -10,7 +10,6 @@ A UART Transmitter built using Verilog and simulated with Icarus Verilog and GTK
 |--------------------------|------------------------------------------|
 | `uart_tx_upgraded.v`     | UART Transmitter Verilog design          |
 | `uart_tx_upgraded_tb.v`  | Testbench (copied from EDA Playground)   |
-| `wave.vcd`               | Waveform file for GTKWave visualization  |
 | `uart_waveform.png`      | Screenshot of UART waveform from GTKWave |
 
 ---

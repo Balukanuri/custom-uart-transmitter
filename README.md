@@ -15,4 +15,5 @@ A UART Transmitter built using Verilog and simulated with Icarus Verilog and GTK
 
 ---
 
-
+## 📈 Waveform
+![Waveform](uart_waveform.png)
